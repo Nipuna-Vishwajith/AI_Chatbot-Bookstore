@@ -1,0 +1,72 @@
+[
+  {
+    "book_id": "101",
+    "category": "Combined Maths",
+    "title": "Advanced Calculus",
+    "author": "Thomas Apostol",
+    "price_lkr": "1500"
+  },
+  {
+    "book_id": "102",
+    "category": "Chemistry",
+    "title": "Chemical Principles",
+    "author": "Peter Atkins",
+    "price_lkr": "1200"
+  },
+  {
+    "book_id": "103",
+    "category": "Physics",
+    "title": "Fundamentals of Physics",
+    "author": "David Halliday",
+    "price_lkr": "1100"
+  },
+  {
+    "book_id": "104",
+    "category": "Biology",
+    "title": "Campbell Biology",
+    "author": "Jane B. Reece",
+    "price_lkr": "1800"
+  },
+  {
+    "book_id": "105",
+    "category": "Combined Maths",
+    "title": "Linear Algebra",
+    "author": "Gilbert Strang",
+    "price_lkr": "1400"
+  },
+  {
+    "book_id": "106",
+    "category": "Chemistry",
+    "title": "Organic Chemistry",
+    "author": "Paula Yurkanis Bruice",
+    "price_lkr": "2000"
+  },
+  {
+    "book_id": "107",
+    "category": "Physics",
+    "title": "Introduction to Electrodynamics",
+    "author": "David J. Griffiths",
+    "price_lkr": "1600"
+  },
+  {
+    "book_id": "108",
+    "category": "Biology",
+    "title": "Genetics: From Genes to Genomes",
+    "author": "Leland H. Hartwell",
+    "price_lkr": "1300"
+  },
+  {
+    "book_id": "109",
+    "category": "Combined Maths",
+    "title": "Differential Equations",
+    "author": "Paul Blanchard",
+    "price_lkr": "1700"
+  },
+  {
+    "book_id": "110",
+    "category": "Chemistry",
+    "title": "Inorganic Chemistry",
+    "author": "Gary L. Miessler",
+    "price_lkr": "1500"
+  }
+]
