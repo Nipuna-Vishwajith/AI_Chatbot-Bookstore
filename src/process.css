@@ -1,0 +1,91 @@
+/* General styles for the entire page */
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+  .btnBack {
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-right: 20px;
+  }
+  
+  /* Style the container holding the content */
+  .pcontainer {
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  /* Style the headings */
+  h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  /* Style the information paragraph */
+  p {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  /* Style the form */
+  form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  /* Style the label */
+  label {
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+  
+  /* Style the input field */
+  input {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px;
+    width: 100%;
+    font-size: 16px;
+  }
+  
+  /* Style the submit button */
+  button {
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  /* Add a hover effect for the button */
+  button:hover {
+    background-color: #2980b9;
+  }
+
+  
+
+  .btnBack:hover {
+    background-color: #2980b9;
+  }
+  
